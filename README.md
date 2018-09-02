@@ -1,7 +1,9 @@
 # api-test2
 GitHub API Test
 
+## Run test with `mvn clean test`
 
+## Answer description
 * Assuming this specification to be implemented, as Test Engineer I would have few concerns. These include some basic questions about the product to be implemented. They are described below - 
 
     1. What is the product and its usage?
