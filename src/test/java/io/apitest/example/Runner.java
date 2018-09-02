@@ -10,7 +10,7 @@ import cucumber.api.junit.Cucumber;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-        features = {"src/main/resources/features"},
+        features = {"src/test/resources/features"},
         strict = true,
         glue = "io.apitest.example.stepsdefinition",
         plugin = {"pretty",
